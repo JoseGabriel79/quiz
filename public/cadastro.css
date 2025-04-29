@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 10px;
+}

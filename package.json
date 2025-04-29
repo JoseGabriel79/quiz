@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node": "^22.15.0",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7"
+  }
+}
